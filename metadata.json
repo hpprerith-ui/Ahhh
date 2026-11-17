@@ -1,0 +1,6 @@
+{
+  "name": "BlockWay",
+  "description": "Indoor campus navigation to locate college blocks, lecture halls, and labs with turn-by-turn floor plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
